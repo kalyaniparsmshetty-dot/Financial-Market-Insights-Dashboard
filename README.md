@@ -4,9 +4,7 @@
 
 This Power BI dashboard provides insights into the Indian stock market by analyzing companies across multiple industries. The dashboard helps identify market leaders, industry performance, company concentration, and stock price trends.
 
-## Dashboard Preview
 
-(Add dashboard screenshot here)
 
 ## Key Metrics
 
